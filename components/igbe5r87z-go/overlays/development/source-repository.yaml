@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: igbe5r87z-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/igbe5r87z-go
